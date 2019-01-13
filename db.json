@@ -1,0 +1,24 @@
+
+{
+  "alerts":[
+{
+"alert_id": 1234,
+"report_status": "new",
+"alert_date": "9.1.18",
+"alert_type": "Testing merchant",
+"merchant_name": "merchant y",
+"country": "united state" ,
+"ICA": 1234,
+"days_remaining" : 20
+},{
+"alert_id": 1244,
+"report_status": "new",
+"alert_date": "9.1.18",
+"alert_type": "Testing merchant",
+"merchant_name": "merchant y",
+"country": "united state" ,
+"ICA": 1234,
+"days_remaining" : 20
+}
+  ]
+}
